@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(245, 151, 108);
+    margin: 0;
+}
+
+.main-container {
+    border: 1px solid purple;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    border: 2px solid orange;
+    /* height: 50%; */
+    flex: 1;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+
+}
+h1 {
+    
+}
+
+section {
+    border: 2px solid orange;
+    /* height: 50%; */
+    flex: 1;
+}
+
